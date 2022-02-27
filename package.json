@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "core-js": "^3.8.3",
+    "piesocket-js": "^2.0.0",
+    "socket.io-client": "^4.4.1",
     "vue": "^3.2.13"
   },
   "devDependencies": {
