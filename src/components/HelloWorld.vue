@@ -37,8 +37,8 @@ export default {
   },
   async mounted() {
     this.socket = new PieSocket({
-      clusterId: 'demo',
-      apiKey: 'oCdCMcMPQpbvNjUIzqtvF1d2X2okWpDQj4AwARJuAgtjhzKxVEjQU6IdCjwm'
+      clusterId: 'free3',
+      apiKey: 'Oz5TdZPr8UgIZq9xL6Y37kXd3mWfL6jWRo7L0cN3'
     })
     this.configureSocket()
   },
